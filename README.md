@@ -1,6 +1,6 @@
 # web-scraping-challenge
 
-**Intro**
+**Intro** <br>
 This challenge scrapes the web for Temperature data on Mars. We analyzed the temperature and length of years on Mars.
 
 **Dependencies** <br>
@@ -11,6 +11,6 @@ This challenge scrapes the web for Temperature data on Mars. We analyzed the tem
 `pandas` <br>
 `matplotlib` <br>
 
-**References**
-ChatGPT.com
-Goggle.com
+**References** <br>
+ChatGPT.com <br>
+Goggle.com <br>
