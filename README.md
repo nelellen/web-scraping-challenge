@@ -3,7 +3,7 @@
 **Intro**
 This challenge scrapes the web for Temperature data on Mars. We analyzed the temperature and length of years on Mars.
 
-**Dependencies**
+**Dependencies** <br>
 `splinter` <br>
 `BeautifulSoup` <br>
 `soup` <br>
